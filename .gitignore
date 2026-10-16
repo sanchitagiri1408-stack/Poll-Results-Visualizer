@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated output can be committed selectively; exclude local caches
+.pytest_cache/
+.streamlit/
+
+# Ignore accidental nested duplicate project
+Poll-Results-Visualizer/

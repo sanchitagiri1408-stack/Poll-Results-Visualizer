@@ -1,0 +1,9 @@
+- The most selected option is "AI Assistant" with 373 votes (31.11% of valid responses).
+- A total of 1,199 valid responses were analyzed.
+- The leading option is ahead of the second-place option by 14 votes.
+- In the Central region, "Faster Performance" has the highest within-region share (31.4%).
+- In the East region, "Faster Performance" has the highest within-region share (31.7%).
+- In the North region, "AI Assistant" has the highest within-region share (32.4%).
+- In the South region, "AI Assistant" has the highest within-region share (39.4%).
+- In the West region, "Faster Performance" has the highest within-region share (33.0%).
+- These are descriptive results from the supplied dataset; synthetic data is fictional and should not be presented as real public opinion.
