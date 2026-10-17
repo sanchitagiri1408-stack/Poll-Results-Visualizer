@@ -165,5 +165,5 @@ After running the project, add your genuine screenshots to `images/` and embed t
 - Build a Power BI report using exported summary tables.
 
 ## Author
-
-Student portfolio project — built for practical data analytics learning.
+*Sanchita Giri* — 3rd Year CSE Student, Jawaharlal Darda Institute of Engineering & Technology, Yavatmal  
+[LinkedIn](linkedin.com/in/sanchita-vijay-giri-28563b3b0) 
